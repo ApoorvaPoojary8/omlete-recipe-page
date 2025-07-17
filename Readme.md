@@ -15,7 +15,18 @@ It displays a recipe card with an image, preparation time, ingredients, step-by-
 ---
 
 ## 📁 Folder Structure
-omlete-recipe-page/ │ ├── index.html              # Main HTML file ├── style.css               # Stylesheet │ └── assets/ └── images/ ├── image-omelette.jpeg     # Dish image └── favicon-32x32.png       # Favicon icon
+omlete-recipe-page/ 
+│
+├── index.html             
+# Main HTML file ├
+── style.css               
+# Stylesheet │ 
+└── assets/ 
+└── images/ 
+├── image-omelette.jpeg     
+# Dish image 
+└── favicon-32x32.png 
+# Favicon icon
 
 ---
 
