@@ -6,7 +6,7 @@ I built a responsive recipe page using just HTML and CSS.
 
 ## 🔗 Links
 
-- Live Site: 
+- Live Site: https://apoorvapoojary8.github.io/omlete-recipe-page/
 - Solution Repo: https://github.com/ApoorvaPoojary8/omlete-recipe-page.git
 
 ---
