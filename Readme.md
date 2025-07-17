@@ -1,38 +1,36 @@
-# 🧑‍🍳 Frontend Mentor - Recipe Page Solution
+# 🍳 Recipe Page
 
-This is my solution for the Frontend Mentor Recipe Page Challenge
-I built a responsive recipe page using just HTML and CSS. 
----
-
-## 🔗 Links
-
-- Live Site: https://apoorvapoojary8.github.io/omlete-recipe-page/
-- Solution Repo: https://github.com/ApoorvaPoojary8/omlete-recipe-page.git
+A clean and responsive recipe page built using HTML and CSS.  
+It displays a recipe card with an image, preparation time, ingredients, step-by-step instructions, and nutritional details — great for practicing semantic structure and layout basics.
 
 ---
 
-## 🛠️ Built With
+## 🛠 Built With
 
-- HTML5
-- CSS3
-- Google Fonts: "Outfit" and "Young Serif"
-- Mobile-first approach
+- HTML5  
+- CSS3  
+- Flexbox & Media Queries  
+- [Google Fonts – Outfit & Young Serif](https://fonts.google.com/)
 
 ---
 
-## 📚 What I Learned
+## 📁 Folder Structure
+omlete-recipe-page/ │ ├── index.html              # Main HTML file ├── style.css               # Stylesheet │ └── assets/ └── images/ ├── image-omelette.jpeg     # Dish image └── favicon-32x32.png       # Favicon icon
 
-- Using semantic HTML for structured content
-- Styling clean layouts with consistent spacing and typography
-- Making the page responsive with media queries
+---
+
+## 🧠 What I Learned
+
+- Using semantic HTML elements for clear structure  
+- Styling clean recipe layouts with custom fonts and colors  
+- Creating responsive design using media queries
 
 ---
 
 ## 👤 Author
 
-**Apoorva**  
+- GitHub: [@apoorvapoojary8](https://github.com/apoorvapoojary8)
 
 ---
 
-Thanks to Frontend Mentor for the awesome design!  
 Simple, clean, and delicious 😋
