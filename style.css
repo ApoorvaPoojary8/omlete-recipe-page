@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(30, 54%, 90%);
+  color: hsl(30, 10%, 34%);
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 2rem;
+}
+.recipe-img img {
+  width: 100%;
+  border-radius: 12px;
+  
+}
+
+
+h1, h2 {
+  font-family: 'Young Serif', serif;
+  color: hsl(14, 45%, 36%);
+  margin-bottom:0.5rem;
+}
+p, li, span {
+  font-family: 'Outfit', sans-serif;
+  color: hsl(30, 10%, 34%);
+}
+
+.container {
+  max-width: 740px;
+  margin: 0 auto;
+  background-color: hsl(0, 0%, 100%);
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+.preparation h2 {
+  color: hsl(332, 51%, 32%);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+/* Nutrition Section */
+.Nutrition {
+  margin-top: 2rem;
+}
+
+.Nutrition .values {
+  margin-bottom: 1rem;
+}
+
+.nutrition-table {
+  display: flex;
+  justify-content: space-between;
+padding: 0.75rem 0;
+  border-bottom: 1px solid hsl(30, 18%, 87%);
+
+}
+
+
+.quantity {
+  font-weight: 700;
+  color: hsl(14, 45%, 36%);
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+}
