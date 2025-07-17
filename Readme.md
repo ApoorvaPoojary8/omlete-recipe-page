@@ -1,14 +1,13 @@
 # 🧑‍🍳 Frontend Mentor - Recipe Page Solution
 
-This is my solution for the [Frontend Mentor Recipe Page Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). 
-I built a responsive recipe page using just HTML and CSS. It showcases a simple omelette recipe with prep time, ingredients, instructions, and nutritional details.
-
+This is my solution for the Frontend Mentor Recipe Page Challenge
+I built a responsive recipe page using just HTML and CSS. 
 ---
 
 ## 🔗 Links
 
 - Live Site: 
-- Solution Repo: [your-github-repo](https://github.com/yourusername/recipe-page)
+- Solution Repo: https://github.com/ApoorvaPoojary8/omlete-recipe-page.git
 
 ---
 
